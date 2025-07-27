@@ -1,4 +1,4 @@
-# aliasman - bash alias manager
+# aliasman - zsh alias manager
 
 **aliasman** is a terminal alias manager built for Kali CTF setups. It organizes your `.zshrc` aliases into clean sections, displays them with smart syntax highlighting, supports truncation, and allows adding, editing, removing, and searching aliases directly from the CLI. It is generally specific to my Kali setup.
 
